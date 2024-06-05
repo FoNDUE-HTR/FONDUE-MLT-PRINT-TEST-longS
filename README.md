@@ -13,7 +13,7 @@ It derives from the [FONDUE-MLT-PRINT-TEST](https://github.com/FoNDUE-HTR/FONDUE
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST/blob/main/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST-longS/blob/main/htr-united.yml) file.
 
 ## Licences
 Annotation is CC-BY. Images belong to the digital libraries.
