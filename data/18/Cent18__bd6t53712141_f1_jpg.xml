@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent18__bd6t53712141_f1_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10443" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10444" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10445" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10456" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10457" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10458" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10459" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10460" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10461" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10462" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT4083" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4084" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4085" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="921"
+          HEIGHT="1200"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="921"
+                  HEIGHT="1200">
+        
+        <TextBlock HPOS="186"
+                   VPOS="54"
+                   WIDTH="213"
+                   HEIGHT="35"
+                   ID="block_1"
+                   TAGREFS="BT10456">
+          <Shape><Polygon POINTS="399 54 399 89 186 89 186 54"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4083"
+                    BASELINE="185 76 391 78" 
+                    HPOS="184"
+                    VPOS="54"
+                    WIDTH="207"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="384 54 378 54 371 54 364 54 358 54 351 54 344 54 338 54 331 54 324 54 318 54 311 54 304 54 298 54 296 55 294 57 290 55 288 54 284 54 278 54 271 54 264 54 259 54 256 56 254 57 234 57 233 56 229 54 224 54 218 54 215 56 207 54 204 54 198 54 197 54 190 56 185 76 184 82 210 82 213 84 220 87 221 87 236 84 242 82 244 84 248 87 248 88 249 88 250 88 269 88 296 84 304 83 306 84 312 88 313 88 314 88 314 89 330 89 330 88 331 88 337 84 340 83 342 84 350 88 351 88 352 88 390 84 391 78 390 54 384 54"/></Shape>
+	    <String CONTENT="BCN 22 83451"
+                    HPOS="184"
+                    VPOS="54"
+                    WIDTH="207"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="130"
+                   VPOS="86"
+                   WIDTH="588"
+                   HEIGHT="906"
+                   ID="eSc_textblock_e79cb51b"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="132 89 130 992 700 992 718 86"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4084"
+                    BASELINE="316 368 477 366 517 366" 
+                    HPOS="315"
+                    VPOS="325"
+                    WIDTH="202"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 368 316 384 345 384 346 385 351 389 351 390 352 390 353 390 354 391 379 391 379 390 380 390 381 390 385 386 388 384 401 386 420 389 421 389 422 389 429 387 439 383 443 387 445 389 446 389 447 389 448 389 517 388 517 366 516 325 498 325 497 325 496 325 473 337 433 332 432 332 399 337 390 330 389 330 388 330 387 330 386 330 358 338 338 327 337 327 336 327 335 327 315 327 316 368"/></Shape>
+	    <String CONTENT="PRIX"
+                    HPOS="315"
+                    VPOS="325"
+                    WIDTH="202"
+                    HEIGHT="66"
+                    WC="0.9993"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4084"
+                    BASELINE="135 420 338 416 688 414" 
+                    HPOS="134"
+                    VPOS="394"
+                    WIDTH="554"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="648 396 641 396 634 396 628 396 621 396 614 396 608 396 601 396 599 396 592 396 580 397 576 396 573 396 568 396 561 396 554 396 548 396 541 396 534 396 528 396 521 396 520 396 492 399 418 399 410 396 408 396 401 396 394 396 388 396 381 396 374 396 368 396 361 396 354 396 348 396 341 396 334 396 328 396 321 396 314 396 308 396 301 396 294 396 288 396 281 396 274 396 268 396 261 396 254 396 248 396 241 396 234 396 228 396 221 396 214 396 208 396 201 396 194 396 190 396 184 397 134 394 135 420 135 434 205 434 206 434 215 427 236 427 249 433 250 433 252 433 284 426 340 426 353 432 354 432 382 426 403 432 404 432 419 432 429 431 430 431 446 425 502 430 503 430 514 424 558 429 559 429 584 424 617 429 618 429 629 424 636 428 637 428 638 428 687 429 688 414 687 397 660 396 654 396"/></Shape>
+	    <String CONTENT="Diſtribués dans la Séance publique, tenue par la Société Royale"
+                    HPOS="134"
+                    VPOS="394"
+                    WIDTH="554"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4084"
+                    BASELINE="223 450 279 446 608 443" 
+                    HPOS="222"
+                    VPOS="419"
+                    WIDTH="386"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="223 450 223 472 283 472 284 472 285 472 285 471 297 460 318 467 319 467 320 467 321 467 322 467 336 456 361 461 362 461 363 461 374 456 396 468 401 471 402 471 403 471 404 471 415 468 425 465 430 467 435 470 436 470 437 470 438 470 439 470 439 469 441 467 453 455 474 459 475 459 550 454 561 464 564 466 564 467 565 467 566 467 588 469 589 469 590 469 608 462 608 443 605 419 544 425 539 420 538 420 538 419 537 419 536 419 510 419 509 419 508 419 507 419 504 421 496 426 470 422 452 420 451 420 450 420 449 420 446 423 442 427 405 427 395 425 382 421 381 421 380 421 379 421 364 425 358 427 338 426 267 422 266 422 222 429 223 450"/></Shape>
+	    <String CONTENT="de Médecine au Louvre, le 30 Août 1785."
+                    HPOS="222"
+                    VPOS="419"
+                    WIDTH="386"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fdd185e3"
+                    TAGREFS="LT4084"
+                    BASELINE="403 521 412 520 425 519" 
+                    HPOS="401"
+                    VPOS="499"
+                    WIDTH="24"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="403 533 425 534 425 519 423 499 401 499 403 521 403 533"/></Shape>
+	    <String CONTENT="I."
+                    HPOS="401"
+                    VPOS="499"
+                    WIDTH="24"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4083"
+                    BASELINE="136 557 683 552" 
+                    HPOS="135"
+                    VPOS="522"
+                    WIDTH="548"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="136 557 136 564 290 566 291 566 316 564 331 562 347 564 369 566 370 566 414 564 471 561 506 564 520 564 521 564 522 564 528 560 564 560 568 564 569 564 570 564 573 564 592 560 600 564 601 564 602 564 605 564 630 560 682 563 683 552 680 526 670 530 658 526 648 522 604 522 603 522 596 526 588 530 565 531 540 526 528 523 527 523 512 526 500 528 495 526 490 524 448 524 447 524 431 524 430 524 428 526 420 531 408 531 407 531 406 531 398 536 338 536 332 532 331 532 330 532 329 532 328 532 322 537 232 537 223 532 222 532 221 532 201 538 179 538 162 526 161 526 160 526 135 526 136 557"/></Shape>
+	    <String CONTENT="LA Société avoit propoſé dans ſa Séance publique du 26 août 1783,"
+                    HPOS="135"
+                    VPOS="522"
+                    WIDTH="548"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4083"
+                    BASELINE="136 577 687 572" 
+                    HPOS="135"
+                    VPOS="555"
+                    WIDTH="552"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="136 577 136 589 302 585 314 587 329 590 330 590 348 587 353 586 359 587 386 590 387 590 388 590 394 586 395 586 400 586 416 588 417 588 422 586 426 584 429 586 435 589 436 589 518 588 519 588 526 585 528 585 576 588 577 588 578 588 588 584 605 588 606 588 680 587 681 587 687 583 687 572 686 559 628 555 627 555 604 559 602 559 596 559 551 556 550 556 549 556 544 559 543 560 540 559 531 556 530 556 529 556 523 559 521 560 506 559 464 557 463 557 462 557 460 559 458 561 420 561 417 559 412 557 411 557 410 557 404 560 400 561 380 560 366 558 357 560 342 562 336 560 334 558 333 558 332 558 328 560 322 562 135 560 136 577"/></Shape>
+	    <String CONTENT="pour ſujet d’un Prix de la valeur de 600 livres, fondé par le Roi, la"
+                    HPOS="135"
+                    VPOS="555"
+                    WIDTH="552"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4083"
+                    BASELINE="134 596 289 595" 
+                    HPOS="134"
+                    VPOS="582"
+                    WIDTH="155"
+                    HEIGHT="25">
+            <Shape><Polygon POINTS="134 596 134 607 155 603 187 606 201 607 202 607 288 602 289 595 288 582 134 582 134 596"/></Shape>
+	    <String CONTENT="queſtion ſuivante:"
+                    HPOS="134"
+                    VPOS="582"
+                    WIDTH="155"
+                    HEIGHT="25"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4083"
+                    BASELINE="151 620 689 614" 
+                    HPOS="150"
+                    VPOS="593"
+                    WIDTH="539"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="151 620 151 628 177 631 178 631 179 631 183 628 184 627 233 627 237 628 250 630 251 630 257 628 258 627 268 628 295 630 296 630 320 628 340 626 362 627 389 629 390 629 396 627 402 625 460 627 490 628 491 628 496 627 510 624 574 626 578 626 579 626 580 626 585 623 591 626 592 626 688 626 689 614 688 594 630 593 629 593 628 593 621 596 608 600 592 596 588 596 584 596 566 600 477 598 458 598 457 598 456 599 449 602 432 600 412 597 411 597 404 600 400 602 397 600 390 597 389 597 388 597 376 600 369 603 325 603 314 602 277 597 276 597 225 603 216 599 215 599 214 599 200 602 183 600 182 600 150 605 151 620"/></Shape>
+	    <String CONTENT="Déterminer quels ſont les avantages &amp; les dangers du Quinquina adminiſtré"
+                    HPOS="150"
+                    VPOS="593"
+                    WIDTH="539"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4083"
+                    BASELINE="137 640 650 636" 
+                    HPOS="136"
+                    VPOS="620"
+                    WIDTH="514"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="137 640 137 651 406 651 406 650 407 650 418 648 428 645 450 647 480 650 481 650 482 650 487 646 492 644 648 644 650 636 648 624 590 620 514 621 513 621 512 621 509 624 508 624 496 624 445 621 444 621 443 621 440 624 438 625 430 624 417 622 416 622 404 624 394 625 372 624 342 622 341 622 297 624 235 626 225 624 223 623 222 623 221 623 220 624 214 626 136 624 137 640"/></Shape>
+	    <String CONTENT="dans le traitement des différentes eſpèces des fievres rémittentes."
+                    HPOS="136"
+                    VPOS="620"
+                    WIDTH="514"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4083"
+                    BASELINE="154 664 687 658" 
+                    HPOS="154"
+                    VPOS="640"
+                    WIDTH="533"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="154 664 154 672 212 675 281 672 308 670 313 672 322 674 323 674 324 674 329 672 333 670 369 670 375 671 382 673 383 673 401 671 420 669 436 671 449 672 450 672 461 671 478 668 492 671 498 672 499 672 500 672 502 671 510 668 555 670 567 671 568 671 570 670 581 667 596 670 597 670 598 670 600 670 628 666 686 670 687 658 686 643 629 640 628 640 607 644 594 646 591 644 588 641 587 641 586 641 532 642 531 642 530 642 526 645 524 646 510 645 492 643 491 643 490 643 483 645 476 647 468 646 450 642 449 642 448 642 437 646 430 648 411 646 394 645 393 645 392 645 390 646 386 649 350 649 347 647 340 644 339 644 338 644 330 647 326 649 318 648 305 644 304 644 283 648 271 650 260 648 236 645 235 645 234 645 230 648 228 650 212 650 196 649 163 646 162 646 154 648 154 664"/></Shape>
+	    <String CONTENT="Cette queſtion intéreſſante pour la Médecine pratique, a été traitée"
+                    HPOS="154"
+                    VPOS="640"
+                    WIDTH="533"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4083"
+                    BASELINE="135 685 688 678" 
+                    HPOS="134"
+                    VPOS="662"
+                    WIDTH="554"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="135 685 135 695 185 691 227 694 230 694 235 694 291 690 363 692 381 692 382 692 687 686 688 678 686 665 620 662 559 666 556 666 554 666 536 663 535 663 523 667 522 667 518 664 517 664 486 664 443 668 436 664 435 664 434 664 422 668 393 665 392 665 382 669 380 669 375 669 336 666 335 666 334 666 330 670 329 670 325 670 286 666 285 666 240 670 233 671 222 671 149 668 148 668 134 672 135 685"/></Shape>
+	    <String CONTENT="par un très-grand nombre de Concurrens; quatre Mémoires ont ſur-tout"
+                    HPOS="134"
+                    VPOS="662"
+                    WIDTH="554"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4083"
+                    BASELINE="134 703 688 698" 
+                    HPOS="133"
+                    VPOS="682"
+                    WIDTH="555"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="134 703 134 712 159 714 160 714 161 714 165 712 168 710 188 710 192 712 202 715 203 715 204 715 226 713 248 720 249 720 250 721 272 721 272 720 401 719 402 719 420 710 424 708 441 710 466 713 512 709 550 706 611 707 613 708 616 711 617 711 618 711 619 711 622 708 627 706 687 708 688 698 686 685 619 682 618 682 617 682 612 686 610 686 604 686 550 682 507 686 483 683 482 683 481 683 476 687 474 687 468 687 416 684 388 688 386 688 377 688 283 685 282 685 275 688 146 686 145 686 144 686 133 689 134 703"/></Shape>
+	    <String CONTENT="fixé l&#x27;attention de la Compagnie, qui leur à diſtribué des Prix dans l’or¬"
+                    HPOS="133"
+                    VPOS="682"
+                    WIDTH="555"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4083"
+                    BASELINE="134 721 234 722" 
+                    HPOS="133"
+                    VPOS="707"
+                    WIDTH="101"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="134 721 133 735 151 736 152 736 154 735 169 730 201 734 202 734 218 731 232 735 234 722 234 710 134 707 134 721"/></Shape>
+	    <String CONTENT="dre ſuivant:"
+                    HPOS="133"
+                    VPOS="707"
+                    WIDTH="101"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4083"
+                    BASELINE="153 748 686 742" 
+                    HPOS="152"
+                    VPOS="719"
+                    WIDTH="534"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="153 748 153 754 218 758 219 758 259 754 260 754 262 754 285 757 286 757 302 754 344 756 345 756 346 756 353 753 411 756 412 756 424 752 425 752 431 752 482 755 483 755 484 755 489 751 490 751 500 754 501 754 502 754 516 751 523 754 524 754 549 750 553 750 558 750 590 753 591 753 630 750 634 750 635 750 648 753 649 753 650 753 662 750 672 753 673 753 674 753 686 749 686 742 683 721 670 725 597 725 592 722 586 719 585 719 564 722 563 722 562 722 554 720 553 720 552 720 536 723 520 726 506 723 499 722 498 722 489 724 467 726 457 724 444 720 443 720 352 721 318 726 303 728 298 726 289 722 288 722 268 726 262 728 260 726 255 722 254 722 242 722 241 722 231 727 228 728 152 728 153 748"/></Shape>
+	    <String CONTENT="Elle a adjugé le premier Prix conſiſtant en une médaille d’or de la"
+                    HPOS="152"
+                    VPOS="719"
+                    WIDTH="534"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4083"
+                    BASELINE="135 766 686 762" 
+                    HPOS="134"
+                    VPOS="746"
+                    WIDTH="552"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="135 766 135 773 370 775 414 773 459 771 562 773 586 773 587 773 590 773 613 770 685 772 686 762 685 750 607 746 606 746 595 750 587 746 586 746 528 746 482 750 481 750 480 750 453 747 452 747 451 747 446 751 444 751 422 748 400 751 398 751 390 748 389 748 373 751 370 752 358 751 303 748 302 748 292 752 290 752 283 752 256 749 255 749 254 749 250 752 248 753 134 753 135 766"/></Shape>
+	    <String CONTENT="valeur de 250 livres à M. Baumes, Docteur en Médecine à Lunel en"
+                    HPOS="134"
+                    VPOS="746"
+                    WIDTH="552"
+                    HEIGHT="29"
+                    WC="0.9840692307692308"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4083"
+                    BASELINE="134 786 685 781" 
+                    HPOS="133"
+                    VPOS="765"
+                    WIDTH="552"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="134 786 134 798 143 794 172 797 178 798 179 798 184 797 203 794 294 796 324 796 353 794 409 792 413 794 416 795 417 795 418 795 422 794 425 792 445 793 472 795 473 795 497 792 508 791 510 792 513 794 514 794 515 794 528 792 532 791 536 792 545 794 546 794 684 789 685 781 684 769 616 765 615 765 614 765 606 769 605 769 599 769 547 766 546 766 494 769 473 770 133 770 134 786"/></Shape>
+	    <String CONTENT="Languedoc, Auteur d’un Mémoire ayant pour épigraphe une phraſe ex¬"
+                    HPOS="133"
+                    VPOS="765"
+                    WIDTH="552"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT4083"
+                    BASELINE="134 804 548 802" 
+                    HPOS="134"
+                    VPOS="787"
+                    WIDTH="414"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="134 804 135 816 148 812 225 812 232 815 233 816 234 816 242 815 280 812 300 814 306 815 307 815 315 814 342 811 350 814 352 814 353 814 360 814 382 811 398 813 408 814 418 813 430 811 546 811 548 802 547 791 536 787 535 787 534 787 494 790 476 787 454 790 444 787 443 787 416 791 340 788 339 788 324 792 318 788 317 788 316 788 291 792 268 788 267 788 266 788 266 789 263 792 186 789 185 789 184 789 184 790 181 792 181 793 134 793 134 804"/></Shape>
+	    <String CONTENT="traite de l’ouvrage de M. Stoll, intitulé ratio medendi."
+                    HPOS="134"
+                    VPOS="787"
+                    WIDTH="414"
+                    HEIGHT="29"
+                    WC="0.9811222222222222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT4083"
+                    BASELINE="154 830 686 826" 
+                    HPOS="154"
+                    VPOS="808"
+                    WIDTH="532"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="154 830 154 837 686 832 686 826 684 810 460 808 459 808 458 808 455 810 451 814 380 814 372 811 371 811 370 811 325 814 318 811 315 810 314 810 313 810 308 811 292 816 265 816 237 811 230 810 229 810 228 810 226 811 217 816 154 812 154 830"/></Shape>
+	    <String CONTENT="Le ſecond Prix conſiſtant également en une Médaille d’or de la valeur"
+                    HPOS="154"
+                    VPOS="808"
+                    WIDTH="532"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT4083"
+                    BASELINE="133 850 685 845" 
+                    HPOS="132"
+                    VPOS="829"
+                    WIDTH="553"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="133 850 133 856 210 859 211 859 243 856 246 856 248 856 284 858 285 858 286 858 291 856 292 855 306 856 360 858 361 858 362 858 368 855 370 854 685 854 685 845 684 830 591 829 590 829 576 830 552 833 518 830 502 830 490 831 460 834 452 831 448 830 447 830 433 831 400 834 389 831 386 830 385 830 380 831 364 835 307 832 306 832 246 836 193 832 192 832 172 836 166 832 165 832 164 832 132 832 133 850"/></Shape>
+	    <String CONTENT="de 250 livres, a été décerné à M. Barailon, Docteur en Médecine à"
+                    HPOS="132"
+                    VPOS="829"
+                    WIDTH="553"
+                    HEIGHT="30"
+                    WC="0.9935692307692308"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT4083"
+                    BASELINE="133 869 684 864" 
+                    HPOS="132"
+                    VPOS="848"
+                    WIDTH="552"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="133 869 133 876 176 880 177 880 178 880 186 876 197 879 198 879 269 876 278 876 280 876 293 880 294 880 295 880 304 876 306 875 314 876 332 878 388 876 429 874 434 876 445 880 446 880 469 876 480 874 485 876 490 878 491 878 492 878 508 876 522 874 526 876 533 879 534 879 684 875 684 864 682 851 610 848 609 848 608 848 604 851 603 852 600 851 595 848 594 848 582 851 574 852 567 851 553 848 552 848 536 851 524 854 469 854 460 851 450 849 449 849 448 849 442 851 434 854 418 851 406 850 396 852 384 854 376 852 370 850 369 850 368 850 359 852 344 854 318 852 311 851 310 851 306 852 285 855 278 852 277 851 276 851 271 852 255 855 248 852 246 851 245 851 244 851 237 852 209 856 188 852 185 852 184 852 183 852 174 856 164 852 163 852 162 852 132 852 133 869"/></Shape>
+	    <String CONTENT="Chambon en Combrailles, Auteur d’un Mémoire, ayant pour épigraphe"
+                    HPOS="132"
+                    VPOS="848"
+                    WIDTH="552"
+                    HEIGHT="32"
+                    WC="0.9903444444444445"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT4083"
+                    BASELINE="135 888 564 884" 
+                    HPOS="134"
+                    VPOS="869"
+                    WIDTH="430"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="135 888 135 900 188 898 194 900 201 902 202 902 203 902 212 900 222 897 252 899 287 901 288 901 316 898 330 896 333 898 338 900 339 900 351 897 356 896 357 897 362 900 363 900 364 900 391 896 398 896 400 896 408 900 409 900 457 900 458 900 469 896 490 899 491 899 492 899 497 895 505 899 506 899 506 900 551 900 551 899 552 899 564 894 564 884 563 873 518 873 518 872 513 869 512 869 511 869 492 872 485 869 484 869 483 869 482 869 477 872 476 874 437 874 436 872 433 870 432 870 431 870 430 870 421 872 418 873 410 872 384 870 383 870 382 870 382 871 380 872 379 874 375 872 368 870 367 870 366 870 340 872 322 874 316 872 306 870 305 870 304 870 302 872 298 874 289 872 283 871 282 871 278 872 272 875 204 875 134 872 135 888"/></Shape>
+	    <String CONTENT="un paſſage extrait du Traité de Sydenham, de hydrope."
+                    HPOS="134"
+                    VPOS="869"
+                    WIDTH="430"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT4083"
+                    BASELINE="153 914 686 911" 
+                    HPOS="152"
+                    VPOS="892"
+                    WIDTH="534"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="153 914 153 921 685 921 686 911 684 896 644 896 639 892 638 892 637 892 636 892 626 895 582 892 581 892 580 892 576 896 575 897 514 897 513 896 505 892 504 892 464 896 448 897 430 896 400 893 399 893 348 896 317 897 305 896 291 894 290 894 289 894 287 896 284 898 244 898 230 896 223 894 222 894 218 896 209 898 198 896 194 894 193 894 192 894 188 896 180 898 152 896 153 914"/></Shape>
+	    <String CONTENT="La Société ayant été très-ſatisfaite des Mémoires cotés F &amp; A avoit"
+                    HPOS="152"
+                    VPOS="892"
+                    WIDTH="534"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT4083"
+                    BASELINE="133 933 685 930" 
+                    HPOS="132"
+                    VPOS="914"
+                    WIDTH="553"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="133 933 133 942 684 940 685 930 684 918 671 914 670 914 627 918 595 914 594 914 586 918 552 914 517 918 514 918 510 918 458 915 437 918 436 918 435 918 419 914 418 914 398 918 394 919 387 918 353 915 352 915 351 915 346 918 346 919 343 918 330 916 329 916 328 916 318 918 315 919 302 918 262 916 246 918 238 920 234 918 228 916 227 916 226 916 210 918 203 920 196 918 182 916 181 916 132 918 133 933"/></Shape>
+	    <String CONTENT="arreêté qu’Elle décerneroit à leurs Auteurs une Médaille d’or, de la"
+                    HPOS="132"
+                    VPOS="914"
+                    WIDTH="553"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT4083"
+                    BASELINE="134 952 684 949" 
+                    HPOS="134"
+                    VPOS="933"
+                    WIDTH="550"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="134 952 134 960 684 960 684 949 683 937 600 933 599 933 582 936 575 933 574 933 573 933 560 937 558 937 550 937 491 934 490 934 484 937 483 937 478 937 438 934 425 937 420 938 134 938 134 952"/></Shape>
+	    <String CONTENT="même forme que les jettons d’argent qui sont diſtribués dans les Séances"
+                    HPOS="134"
+                    VPOS="933"
+                    WIDTH="550"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_25"
+                    TAGREFS="LT4083"
+                    BASELINE="134 972 685 968" 
+                    HPOS="134"
+                    VPOS="953"
+                    WIDTH="551"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="134 972 134 986 154 986 156 986 162 992 163 992 164 992 184 988 192 993 193 993 194 993 250 986 265 985 283 987 331 992 332 992 394 992 403 987 410 984 431 988 452 991 453 992 484 992 484 991 485 991 492 988 502 983 562 983 576 988 577 988 578 988 594 982 604 988 607 990 608 990 622 988 660 984 667 988 667 989 668 989 669 989 685 988 685 968 684 957 632 953 631 953 610 956 602 953 601 953 600 953 592 957 587 957 525 954 524 954 503 957 500 958 490 958 432 954 431 954 424 958 416 954 415 954 414 954 413 954 408 958 407 958 390 958 330 955 329 955 313 958 307 959 300 958 285 956 284 956 272 958 268 959 266 958 260 956 259 956 258 956 250 958 247 959 246 958 240 956 239 956 134 958 134 972"/></Shape>
+	    <String CONTENT="particulieres de la Compagnie; mais à l&#x27;ouverture du cachet du premier"
+                    HPOS="134"
+                    VPOS="953"
+                    WIDTH="551"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="130"
+                   VPOS="387"
+                   WIDTH="153"
+                   HEIGHT="142"
+                   ID="block_0"
+                   TAGREFS="BT10462">
+          <Shape><Polygon POINTS="283 387 283 529 130 529 130 387"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="139"
+                   VPOS="98"
+                   WIDTH="572"
+                   HEIGHT="205"
+                   ID="eSc_textblock_1228637c"
+                   TAGREFS="BT10457">
+          <Shape><Polygon POINTS="139 98 139 303 711 303 711 98"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent17__bpt6k176510d_f5_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10443" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10444" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10445" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10456" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10457" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10458" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10459" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10460" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10461" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10462" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
+    <OtherTag ID="LT4083" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4084" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4085" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="691"
+          HEIGHT="1200"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="691"
+                  HEIGHT="1200">
+        
+        <TextBlock HPOS="278"
+                   VPOS="21"
+                   WIDTH="34"
+                   HEIGHT="35"
+                   ID="eSc_textblock_b429e2bc"
+                   TAGREFS="BT10444">
+          <Shape><Polygon POINTS="278 21 278 56 312 56 312 21"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7ed3b40d"
+                    TAGREFS="LT4083"
+                    BASELINE="285 56 296 56 309 56" 
+                    HPOS="282"
+                    VPOS="25"
+                    WIDTH="28"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="295 55 285 55 285 56 282 25 310 25 309 56 309 55 305 55"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="282"
+                    VPOS="25"
+                    WIDTH="28"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="36"
+                   VPOS="58"
+                   WIDTH="525"
+                   HEIGHT="345"
+                   ID="block_0"
+                   TAGREFS="BT10443">
+          <Shape><Polygon POINTS="552 58 561 403 36 403 37 60 195 59"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4083"
+                    BASELINE="56 94 134 90 550 92" 
+                    HPOS="55"
+                    VPOS="52"
+                    WIDTH="495"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="56 94 55 102 80 104 81 104 82 104 82 103 88 99 133 104 139 104 140 104 141 104 154 99 221 99 226 102 227 102 228 102 229 102 230 102 234 99 245 104 250 106 251 107 265 107 265 106 266 106 269 105 275 101 320 99 326 103 327 103 328 103 336 100 343 106 344 107 345 107 346 107 347 107 351 106 365 100 373 103 374 103 375 103 382 100 389 106 390 107 391 107 392 107 392 108 435 108 435 107 436 107 438 106 451 100 484 100 498 107 499 107 500 108 550 108 550 92 550 56 491 53 490 53 489 53 486 56 476 64 411 64 394 54 391 53 390 53 376 53 375 53 374 53 372 54 361 63 323 63 306 56 305 56 304 56 282 62 257 53 254 52 210 52 209 52 208 52 207 53 188 62 175 53 174 53 171 52 164 52 163 52 162 52 149 63 131 63 111 52 110 52 109 52 108 52 88 61 56 52 56 94"/></Shape>
+	    <String CONTENT="la Rochelle, ce 20. Septembre"
+                    HPOS="55"
+                    VPOS="52"
+                    WIDTH="495"
+                    HEIGHT="56"
+                    WC="0.996"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4083"
+                    BASELINE="56 141 217 138" 
+                    HPOS="54"
+                    VPOS="102"
+                    WIDTH="163"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="56 141 56 157 66 154 82 158 86 158 87 158 88 158 99 150 137 150 168 160 174 162 175 162 176 162 217 160 217 138 215 106 199 107 194 105 187 102 186 102 185 102 184 102 184 103 182 105 176 112 152 112 140 105 139 105 138 105 137 105 136 105 127 113 102 113 94 107 93 107 92 107 91 107 83 111 75 105 74 105 54 105 56 141"/></Shape>
+	    <String CONTENT="l&#x27;an 1628."
+                    HPOS="54"
+                    VPOS="102"
+                    WIDTH="163"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4083"
+                    BASELINE="106 232 541 233" 
+                    HPOS="105"
+                    VPOS="188"
+                    WIDTH="436"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="106 232 105 241 174 249 175 249 206 242 209 242 212 242 235 249 236 249 237 249 326 247 327 247 334 244 336 242 338 244 343 248 344 248 345 248 346 248 347 248 360 244 365 242 367 244 372 248 372 249 373 249 374 249 375 250 398 250 398 249 399 249 400 249 400 248 404 244 407 242 539 245 541 233 540 200 483 200 479 198 468 192 467 192 466 192 444 197 438 198 437 197 430 191 429 191 428 191 399 189 398 189 397 189 396 189 389 195 385 199 338 199 331 194 326 189 325 189 324 189 208 189 207 189 206 189 205 189 205 190 204 190 195 200 172 200 159 191 158 191 157 191 106 188 106 232"/></Shape>
+	    <String CONTENT="Vos tres affectionez Seruiteurs"
+                    HPOS="105"
+                    VPOS="188"
+                    WIDTH="436"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4083"
+                    BASELINE="109 278 541 280" 
+                    HPOS="108"
+                    VPOS="241"
+                    WIDTH="433"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="109 278 108 294 134 295 135 295 137 294 149 290 156 294 157 295 158 295 159 295 160 295 161 294 168 290 200 290 213 293 214 293 255 291 258 293 260 295 260 296 261 296 262 296 298 296 299 296 305 293 308 292 310 293 318 296 319 296 320 296 338 295 339 295 342 292 346 290 384 290 421 292 440 292 444 296 445 296 446 296 484 291 486 291 494 296 495 296 496 296 540 290 541 280 540 255 498 255 495 253 476 243 475 243 465 243 464 243 463 243 463 244 454 252 450 255 400 255 389 250 372 242 371 242 320 242 319 242 318 242 312 247 309 250 292 252 280 247 279 247 278 247 277 247 271 252 259 248 258 248 257 248 249 252 238 245 232 242 231 242 230 242 222 244 212 248 206 244 204 242 203 242 164 242 163 242 162 242 150 250 109 241 109 278"/></Shape>
+	    <String CONTENT="les Maire &amp; Eſcheuins, Pairs"
+                    HPOS="108"
+                    VPOS="241"
+                    WIDTH="433"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4083"
+                    BASELINE="109 329 331 327 536 334" 
+                    HPOS="108"
+                    VPOS="286"
+                    WIDTH="428"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="109 329 108 344 160 341 171 345 175 347 176 347 177 347 178 347 179 347 179 346 180 345 186 340 200 345 205 347 206 347 207 347 217 345 247 340 309 345 351 349 352 349 376 345 400 342 407 345 414 349 415 349 416 349 440 345 457 343 465 345 477 350 478 350 479 350 535 345 536 334 535 301 480 301 480 300 471 292 471 291 470 291 469 291 468 291 467 291 452 295 445 289 444 289 443 289 442 289 398 299 375 289 374 289 373 289 372 289 359 294 330 288 329 288 263 298 259 298 243 298 238 298 222 287 221 287 220 287 219 287 191 292 163 286 162 286 161 286 160 286 146 297 109 297 109 329"/></Shape>
+	    <String CONTENT="&amp; habitans de la Rochelle, &amp;"
+                    HPOS="108"
+                    VPOS="286"
+                    WIDTH="428"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4083"
+                    BASELINE="111 374 382 375" 
+                    HPOS="110"
+                    VPOS="339"
+                    WIDTH="272"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="111 374 110 393 180 387 199 392 212 395 213 395 214 395 215 395 226 391 234 388 246 390 268 395 269 395 270 395 271 395 278 390 314 395 315 395 316 395 337 388 357 395 358 395 359 395 360 395 381 386 382 375 381 348 316 340 315 340 314 340 302 345 289 339 288 339 260 339 259 339 258 339 248 344 242 347 230 344 220 341 219 341 218 341 217 341 209 343 195 347 184 342 176 339 175 339 174 339 160 342 140 346 111 341 111 374"/></Shape>
+	    <String CONTENT="pour tous Guyton."
+                    HPOS="110"
+                    VPOS="339"
+                    WIDTH="272"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

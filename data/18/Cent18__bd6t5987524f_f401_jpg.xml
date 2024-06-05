@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Cent18__bd6t5987524f_f401_jpg.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10562" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10563" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10564" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10565" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10568" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10566" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10567" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT10569" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10570" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10571" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+    <OtherTag ID="LT4135" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4136" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4137" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="850"
+          HEIGHT="1200"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="850"
+                  HEIGHT="1200">
+        
+        <TextBlock HPOS="166"
+                   VPOS="113"
+                   WIDTH="306"
+                   HEIGHT="27"
+                   ID="eSc_textblock_1839fa81"
+                   TAGREFS="BT10563">
+          <Shape><Polygon POINTS="167 113 166 138 472 140 472 116 455 115"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c0135e0d"
+                    TAGREFS="LT4136"
+                    BASELINE="170 130 471 132" 
+                    HPOS="170"
+                    VPOS="112"
+                    WIDTH="301"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="464 116 457 116 450 115 444 115 437 115 430 115 424 115 417 115 410 115 408 115 404 115 397 114 390 114 384 114 377 114 372 114 370 114 364 114 357 114 350 114 344 114 337 114 336 114 334 115 306 115 300 114 297 114 290 114 284 113 277 113 276 113 271 114 269 113 264 113 257 113 250 113 244 113 237 113 232 112 228 113 220 114 220 113 218 112 217 112 210 112 205 112 204 113 201 112 197 112 190 112 184 112 177 112 170 116 170 130 170 137 470 141 471 132 470 116"/></Shape>
+	    <String CONTENT="ET AUTOUR DU MONDE."
+                    HPOS="170"
+                    VPOS="112"
+                    WIDTH="301"
+                    HEIGHT="29"
+                    WC="0.9654660444510611"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="541"
+                   VPOS="125"
+                   WIDTH="38"
+                   HEIGHT="19"
+                   ID="eSc_textblock_54c6721c"
+                   TAGREFS="BT10564">
+          <Shape><Polygon POINTS="542 125 541 144 549 144 579 144 579 126"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_06481b36"
+                    TAGREFS="LT4135"
+                    BASELINE="545 138 576 137" 
+                    HPOS="544"
+                    VPOS="116"
+                    WIDTH="32"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="570 120 568 118 550 116 550 116 549 116 548 116 544 119 545 138 545 148 576 149 576 137 574 123 570 120"/></Shape>
+	    <String CONTENT="375"
+                    HPOS="544"
+                    VPOS="116"
+                    WIDTH="32"
+                    HEIGHT="33"
+                    WC="0.9983018438021342"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="52"
+                   VPOS="145"
+                   WIDTH="529"
+                   HEIGHT="762"
+                   ID="eSc_textblock_8e07ab08"
+                   TAGREFS="BT10562">
+          <Shape><Polygon POINTS="63 145 52 898 570 907 581 150"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_55cb92e7"
+                    TAGREFS="LT4135"
+                    BASELINE="66 159 220 158 580 163" 
+                    HPOS="66"
+                    VPOS="136"
+                    WIDTH="514"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="139 138 132 138 126 138 119 139 112 139 106 140 99 140 92 140 86 140 79 140 72 140 67 148 66 159 66 170 119 166 130 171 130 171 131 171 132 171 132 171 133 171 142 166 151 170 152 170 152 170 170 167 176 171 177 171 178 171 178 171 180 171 209 167 267 172 274 172 274 172 281 172 322 169 333 172 341 174 342 174 342 174 357 172 378 169 390 172 401 174 402 174 579 172 580 163 580 146 512 145 504 139 504 139 503 139 502 139 467 144 330 137 268 136 268 136 267 136 247 142 229 137 228 137 228 137 200 141 162 136 162 136 143 136 139 138"/></Shape>
+	    <String CONTENT="étroite péninsule, dont l’extrémité Sud gît par 50° de latitude"
+                    HPOS="66"
+                    VPOS="136"
+                    WIDTH="514"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac35963b"
+                    TAGREFS="LT4135"
+                    BASELINE="66 182 263 180" 
+                    HPOS="66"
+                    VPOS="163"
+                    WIDTH="197"
+                    HEIGHT="27">
+            <Shape><Polygon POINTS="66 182 66 188 262 190 263 180 262 167 183 163 182 163 182 163 181 163 176 166 164 163 164 163 163 163 162 163 153 167 148 164 148 164 147 164 146 164 128 167 103 164 102 164 66 168 66 182"/></Shape>
+	    <String CONTENT="et 235° 9&#x27; de longitude."
+                    HPOS="66"
+                    VPOS="163"
+                    WIDTH="197"
+                    HEIGHT="27"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e18e474"
+                    TAGREFS="LT4135"
+                    BASELINE="84 204 578 209" 
+                    HPOS="84"
+                    VPOS="184"
+                    WIDTH="494"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="578 193 455 193 449 190 440 188 440 188 439 188 424 190 412 192 403 190 391 187 390 187 363 189 335 191 330 188 328 186 327 186 326 186 326 186 310 188 291 190 284 188 282 186 281 186 280 186 254 187 210 188 206 186 204 185 203 185 202 185 187 186 151 188 131 185 126 184 126 184 122 185 102 188 85 184 84 204 84 213 243 212 286 216 299 216 300 216 300 216 302 216 308 213 311 216 312 216 312 216 313 216 314 216 319 216 336 214 339 216 340 218 341 218 342 218 342 218 360 216 393 214 435 217 459 219 460 219 577 218 578 209 578 193"/></Shape>
+	    <String CONTENT="J’ai appelé l’extrémité de cette péninsule, POINTE MUDGE,"
+                    HPOS="84"
+                    VPOS="184"
+                    WIDTH="494"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daac24b7"
+                    TAGREFS="LT4135"
+                    BASELINE="65 226 580 232" 
+                    HPOS="64"
+                    VPOS="210"
+                    WIDTH="516"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="65 226 64 234 578 242 580 232 579 218 529 218 523 216 507 213 506 213 464 216 450 216 443 216 422 212 422 212 364 214 344 215 338 214 322 210 322 210 308 214 304 214 303 214 300 210 299 210 298 210 270 210 270 210 65 210 65 226"/></Shape>
+	    <String CONTENT="du nom de mon premier lieutenant, qui la découvrit du sommet"
+                    HPOS="64"
+                    VPOS="210"
+                    WIDTH="516"
+                    HEIGHT="32"
+                    WC="0.9809558850819947"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e1427c22"
+                    TAGREFS="LT4135"
+                    BASELINE="64 250 580 255" 
+                    HPOS="64"
+                    VPOS="232"
+                    WIDTH="516"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="64 250 64 260 82 257 106 260 112 261 113 261 114 261 116 260 128 258 165 261 174 262 174 262 177 261 193 258 216 262 218 262 218 262 220 262 252 258 263 262 266 263 266 263 267 263 275 262 307 259 330 263 334 264 335 264 339 263 359 260 370 263 371 263 372 263 384 260 390 264 390 264 391 264 392 264 392 264 396 264 416 260 445 264 451 265 578 266 580 255 579 241 64 232 64 250"/></Shape>
+	    <String CONTENT="d’une montagne aux environs de notre mouillage, et qui avoit"
+                    HPOS="64"
+                    VPOS="232"
+                    WIDTH="516"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_064bfc52"
+                    TAGREFS="LT4135"
+                    BASELINE="64 272 580 278" 
+                    HPOS="63"
+                    VPOS="255"
+                    WIDTH="517"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="64 272 63 281 318 282 350 284 425 287 426 287 468 284 475 284 482 284 530 288 530 288 579 285 580 278 579 262 64 255 64 272"/></Shape>
+	    <String CONTENT="découvert aussi l’entrée: elle forme avec la grande terre du côté"
+                    HPOS="63"
+                    VPOS="255"
+                    WIDTH="517"
+                    HEIGHT="33"
+                    WC="0.9859959707743879"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_140a86ff"
+                    TAGREFS="LT4135"
+                    BASELINE="63 295 578 301" 
+                    HPOS="62"
+                    VPOS="277"
+                    WIDTH="516"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="63 295 62 302 87 306 88 306 114 304 116 304 122 307 122 307 123 307 124 307 208 305 232 305 235 306 244 308 245 308 246 308 274 306 288 306 295 307 307 309 308 309 324 308 336 306 342 308 348 310 349 310 350 310 366 308 378 307 577 312 578 301 578 286 514 281 514 281 484 284 479 285 475 284 454 280 454 280 425 284 417 284 414 284 407 280 406 280 406 280 368 283 350 284 332 282 292 278 291 278 260 281 244 282 242 281 240 279 239 279 238 279 238 279 210 280 182 282 178 280 173 277 172 277 172 277 171 277 162 280 157 281 63 278 63 295"/></Shape>
+	    <String CONTENT="Ouest du golfe, un canal d’à-peu-près un mille de largeur, et"
+                    HPOS="62"
+                    VPOS="277"
+                    WIDTH="516"
+                    HEIGHT="35"
+                    WC="0.9846881997017634"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cea48053"
+                    TAGREFS="LT4135"
+                    BASELINE="62 317 579 324" 
+                    HPOS="62"
+                    VPOS="300"
+                    WIDTH="517"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="62 317 62 329 113 326 119 330 120 330 120 330 121 330 122 330 139 330 184 328 188 330 190 331 191 331 298 332 299 332 300 332 306 330 311 329 334 331 372 334 373 334 454 332 473 331 474 332 478 335 478 335 479 335 480 335 521 332 525 332 526 332 538 336 538 336 539 336 578 332 579 324 579 307 62 300 62 317"/></Shape>
+	    <String CONTENT="dans une direction N. N. O., que M. Puget et M. Whidbey avoient"
+                    HPOS="62"
+                    VPOS="300"
+                    WIDTH="517"
+                    HEIGHT="36"
+                    WC="0.9716134951228187"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a101959a"
+                    TAGREFS="LT4135"
+                    BASELINE="62 340 576 346" 
+                    HPOS="61"
+                    VPOS="324"
+                    WIDTH="515"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="62 340 61 348 118 349 118 350 129 354 130 354 130 354 166 350 168 350 178 354 178 354 179 354 216 351 218 351 218 351 232 355 233 355 574 356 576 346 575 331 62 324 62 340"/></Shape>
+	    <String CONTENT="suivi l’espace de trois ou quatre lieues, sans qu’il parût se terminer;"
+                    HPOS="61"
+                    VPOS="324"
+                    WIDTH="515"
+                    HEIGHT="32"
+                    WC="0.9910478360123105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0008760a"
+                    TAGREFS="LT4135"
+                    BASELINE="62 364 575 369" 
+                    HPOS="62"
+                    VPOS="348"
+                    WIDTH="513"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="62 364 62 373 154 373 157 374 166 376 166 376 167 376 168 376 178 374 182 373 184 374 190 377 190 377 191 377 233 374 245 374 250 374 269 378 270 378 322 375 328 375 329 375 335 378 336 378 336 378 373 376 382 375 384 376 388 379 389 379 390 379 390 379 421 376 426 376 429 376 447 380 448 380 475 376 478 376 482 376 521 380 522 380 574 377 575 369 574 356 510 351 510 351 462 354 447 354 440 354 422 350 421 350 394 353 383 354 378 352 368 350 368 350 367 350 336 352 318 353 62 348 62 364"/></Shape>
+	    <String CONTENT="au contraire, plus ils avançoient, et plus ils le trouvoient étendu."
+                    HPOS="62"
+                    VPOS="348"
+                    WIDTH="513"
+                    HEIGHT="32"
+                    WC="0.976544931105205"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1093230c"
+                    TAGREFS="LT4135"
+                    BASELINE="61 386 577 393" 
+                    HPOS="60"
+                    VPOS="370"
+                    WIDTH="517"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="61 386 60 396 201 396 204 397 209 400 210 400 210 400 233 398 248 396 257 398 272 400 272 400 371 399 378 399 379 399 390 402 390 402 484 404 484 404 512 400 530 404 531 404 576 400 577 393 576 376 531 380 504 375 504 375 479 378 462 374 461 374 460 374 460 374 439 378 396 374 390 373 389 373 382 374 343 377 335 373 334 372 333 372 332 372 326 373 296 376 251 376 246 372 246 372 246 371 245 371 244 371 244 371 222 372 157 374 152 371 152 370 151 370 150 370 150 370 149 370 146 371 136 374 130 371 128 370 127 370 126 370 61 370 61 386"/></Shape>
+	    <String CONTENT="La marée y étoit régulière et rapide, et le flot venoit évidemment"
+                    HPOS="60"
+                    VPOS="370"
+                    WIDTH="517"
+                    HEIGHT="34"
+                    WC="0.9893556262405825"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36a67fd2"
+                    TAGREFS="LT4135"
+                    BASELINE="62 408 575 415" 
+                    HPOS="62"
+                    VPOS="392"
+                    WIDTH="513"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="62 408 62 418 199 418 204 420 205 421 206 421 206 421 207 421 218 420 248 418 261 421 270 423 270 423 304 422 362 420 372 424 375 424 376 424 376 424 392 424 422 422 430 424 434 426 435 426 436 426 442 425 460 422 476 426 481 426 574 427 575 415 575 402 560 398 560 398 559 398 533 401 529 402 528 401 518 397 517 397 516 397 516 397 515 397 510 401 508 402 483 402 481 400 476 396 475 396 474 396 474 396 446 400 439 400 437 400 430 396 429 396 428 396 403 399 394 400 392 398 385 395 384 395 384 395 356 398 342 399 301 397 238 393 237 393 226 395 219 396 192 394 167 393 166 393 166 393 162 394 154 396 144 394 136 392 136 392 135 392 62 392 62 408"/></Shape>
+	    <String CONTENT="du N. O. : il en résultoit que ce canal devoit être d’une étendue"
+                    HPOS="62"
+                    VPOS="392"
+                    WIDTH="513"
+                    HEIGHT="35"
+                    WC="0.9768300836577135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e083b2da"
+                    TAGREFS="LT4135"
+                    BASELINE="61 431 575 439" 
+                    HPOS="60"
+                    VPOS="414"
+                    WIDTH="515"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="61 431 60 440 64 443 64 443 65 443 66 444 318 444 532 450 532 450 574 447 575 439 574 425 530 420 529 420 528 420 519 424 518 424 473 424 473 423 469 420 468 420 468 420 467 420 390 422 384 422 382 422 357 418 356 418 287 420 276 420 275 420 270 416 270 416 269 416 268 416 184 418 183 418 181 418 104 414 103 414 61 416 61 431"/></Shape>
+	    <String CONTENT="considérable; et ils revinrent me faire leur rapport. Un gros village"
+                    HPOS="60"
+                    VPOS="414"
+                    WIDTH="515"
+                    HEIGHT="36"
+                    WC="0.9808417728969029"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58c2753a"
+                    TAGREFS="LT4135"
+                    BASELINE="61 454 576 461" 
+                    HPOS="60"
+                    VPOS="438"
+                    WIDTH="516"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="61 454 60 463 138 468 139 468 168 464 171 464 172 464 177 468 178 468 178 468 179 468 180 468 194 465 197 464 200 465 216 468 216 468 233 465 235 465 238 465 267 470 268 470 288 466 290 466 296 466 368 470 368 470 369 470 382 467 388 471 388 471 389 471 390 471 390 471 406 467 406 467 421 472 422 472 422 472 467 468 468 468 477 472 478 472 524 473 524 473 575 468 576 461 576 446 571 443 570 443 570 443 569 443 568 443 554 447 553 447 474 447 473 446 468 442 467 442 466 442 466 442 402 445 396 445 393 445 366 440 266 439 266 439 235 443 232 443 230 443 210 438 209 438 61 440 61 454"/></Shape>
+	    <String CONTENT="se montre sur la Pointe Mudge : le détachement, à son passage et à"
+                    HPOS="60"
+                    VPOS="438"
+                    WIDTH="516"
+                    HEIGHT="35"
+                    WC="0.9691750234451847"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78c86ee9"
+                    TAGREFS="LT4135"
+                    BASELINE="60 476 576 484" 
+                    HPOS="60"
+                    VPOS="460"
+                    WIDTH="516"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="60 476 60 486 574 496 576 484 576 470 560 466 560 466 559 466 492 469 482 469 481 469 470 465 470 465 430 464 430 464 429 464 422 468 421 468 360 464 359 464 268 466 256 466 254 466 238 462 237 462 209 465 206 465 206 465 201 461 200 461 200 461 199 461 198 461 189 464 187 464 124 460 123 460 60 462 60 476"/></Shape>
+	    <String CONTENT="son retour, fut abordé par plusieurs naturels, qui se conduisirent"
+                    HPOS="60"
+                    VPOS="460"
+                    WIDTH="516"
+                    HEIGHT="36"
+                    WC="0.9934715228294259"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_810c54c0"
+                    TAGREFS="LT4135"
+                    BASELINE="60 500 575 507" 
+                    HPOS="59"
+                    VPOS="486"
+                    WIDTH="516"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="60 500 59 508 160 510 163 513 163 514 164 514 164 514 165 514 214 511 318 516 318 516 514 515 522 518 523 518 524 518 574 515 575 507 574 492 60 486 60 500"/></Shape>
+	    <String CONTENT="avec beaucoup de civilité et de respect. Il rencontra un ruisseau"
+                    HPOS="59"
+                    VPOS="486"
+                    WIDTH="516"
+                    HEIGHT="32"
+                    WC="0.9861286156105272"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4dab43be"
+                    TAGREFS="LT4135"
+                    BASELINE="60 522 574 530" 
+                    HPOS="60"
+                    VPOS="507"
+                    WIDTH="514"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="60 522 60 532 348 535 352 536 376 539 377 539 408 536 412 536 413 536 416 540 417 540 418 540 496 541 497 541 532 538 532 538 538 542 538 542 539 542 540 542 573 538 574 530 573 514 60 507 60 522"/></Shape>
+	    <String CONTENT="d’une excellente eau douce, sur la rive de l’Ouest, immédiate¬"
+                    HPOS="60"
+                    VPOS="507"
+                    WIDTH="514"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a55c1f59"
+                    TAGREFS="LT4135"
+                    BASELINE="60 546 572 553" 
+                    HPOS="59"
+                    VPOS="528"
+                    WIDTH="513"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="59 553 64 556 65 556 66 556 66 556 150 554 151 554 153 554 252 559 253 559 285 556 292 556 301 557 339 560 571 562 572 553 571 539 536 539 533 538 526 534 526 534 525 534 524 534 514 538 510 538 365 537 360 534 356 532 356 532 355 532 339 534 316 536 312 533 310 532 310 532 309 532 308 532 297 533 274 535 268 532 265 531 264 531 264 531 256 532 239 534 212 531 199 530 198 530 186 530 152 532 146 530 145 529 144 529 144 529 140 529 120 533 108 528 107 528 106 528 106 528 102 528 72 532 60 528 60 546 59 553"/></Shape>
+	    <String CONTENT="ment en dehors de l’entrée: l’entrée est très-saine, et offre un"
+                    HPOS="59"
+                    VPOS="528"
+                    WIDTH="513"
+                    HEIGHT="34"
+                    WC="0.9846675013428303"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6c61288b"
+                    TAGREFS="LT4135"
+                    BASELINE="59 568 574 576" 
+                    HPOS="59"
+                    VPOS="550"
+                    WIDTH="515"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="59 568 59 578 132 577 156 580 168 582 168 582 175 580 188 578 202 581 209 582 210 582 221 581 244 578 254 582 258 583 258 583 259 583 280 582 328 580 342 583 344 584 345 584 346 584 349 583 362 580 412 584 434 586 434 586 447 585 479 582 487 586 490 586 490 586 491 587 573 587 574 576 574 562 421 560 419 558 416 555 415 555 414 555 414 555 398 558 387 559 379 557 368 554 368 554 367 554 352 556 340 558 336 556 331 554 330 554 292 553 292 553 273 555 262 556 214 554 175 552 174 552 174 552 170 552 161 555 155 552 152 551 152 551 151 551 140 552 106 555 59 550 59 568"/></Shape>
+	    <String CONTENT="bon mouillage. Il y a autour de la Pointe Mudge, à environ un"
+                    HPOS="59"
+                    VPOS="550"
+                    WIDTH="515"
+                    HEIGHT="37"
+                    WC="0.9913731755748871"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74514a99"
+                    TAGREFS="LT4135"
+                    BASELINE="58 591 574 599" 
+                    HPOS="58"
+                    VPOS="574"
+                    WIDTH="516"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="58 591 58 602 573 609 574 599 574 585 496 584 494 584 490 580 489 580 488 580 488 580 456 583 451 583 449 582 438 579 438 579 437 579 409 582 402 582 386 582 316 577 316 577 254 579 237 580 225 579 184 575 183 575 182 575 182 575 178 578 176 578 170 578 131 574 130 574 116 577 112 578 109 577 100 574 99 574 98 574 58 576 58 591"/></Shape>
+	    <String CONTENT="demi-mille, un banc de rochers submergés; mais les herbes marines"
+                    HPOS="58"
+                    VPOS="574"
+                    WIDTH="516"
+                    HEIGHT="35"
+                    WC="0.9819977725997115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_158b2222"
+                    TAGREFS="LT4135"
+                    BASELINE="60 613 572 623" 
+                    HPOS="59"
+                    VPOS="597"
+                    WIDTH="513"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="60 613 59 624 147 626 148 626 148 626 149 626 156 623 161 626 162 626 162 626 230 628 280 629 281 629 282 629 284 628 290 626 324 629 336 630 336 630 342 629 357 627 387 630 402 631 402 631 413 630 434 628 438 630 439 632 440 632 440 632 441 632 451 631 469 629 571 632 572 623 572 608 534 604 534 604 509 606 504 607 497 606 465 602 464 602 408 604 401 604 393 604 342 600 341 600 340 600 335 603 333 604 300 602 222 598 222 598 184 600 162 600 60 597 60 613"/></Shape>
+	    <String CONTENT="qui s&#x27;y trouvent le font aisément apercevoir. De la Pointe Mudge,"
+                    HPOS="59"
+                    VPOS="597"
+                    WIDTH="513"
+                    HEIGHT="35"
+                    WC="0.9810082442832716"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c83706a"
+                    TAGREFS="LT4135"
+                    BASELINE="59 636 574 644" 
+                    HPOS="58"
+                    VPOS="624"
+                    WIDTH="516"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="59 636 58 644 184 646 187 646 208 650 208 650 224 648 228 647 232 648 253 651 254 651 298 649 316 648 324 650 340 652 340 652 390 651 430 650 432 652 434 653 434 654 435 654 436 654 436 654 474 652 525 651 572 654 574 644 574 630 517 626 516 626 487 629 483 629 482 629 468 625 468 625 467 625 437 628 433 628 428 628 384 624 59 624 59 636"/></Shape>
+	    <String CONTENT="nos embarcations se portèrent vers le Nord, pour revenir au"
+                    HPOS="58"
+                    VPOS="624"
+                    WIDTH="516"
+                    HEIGHT="30"
+                    WC="0.9786762674649556"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d15e3c22"
+                    TAGREFS="LT4135"
+                    BASELINE="58 660 573 667" 
+                    HPOS="58"
+                    VPOS="642"
+                    WIDTH="515"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="58 660 58 667 110 672 110 672 136 669 247 674 248 674 268 671 270 671 272 671 306 674 307 674 333 672 339 672 348 672 386 676 386 676 572 676 573 667 572 650 246 649 231 644 230 644 230 644 200 648 190 644 190 644 189 644 188 644 126 646 58 642 58 660"/></Shape>
+	    <String CONTENT="mouillage en faisant la reconnoissance des rives coupées qui se"
+                    HPOS="58"
+                    VPOS="642"
+                    WIDTH="515"
+                    HEIGHT="34"
+                    WC="0.9784641591832042"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_021c2cd0"
+                    TAGREFS="LT4135"
+                    BASELINE="58 683 574 690" 
+                    HPOS="58"
+                    VPOS="666"
+                    WIDTH="516"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="58 683 58 692 572 698 574 690 574 676 522 676 522 675 512 671 512 671 511 671 478 674 473 674 472 674 469 671 469 670 468 670 468 670 467 670 432 673 420 674 368 674 364 672 358 669 358 669 357 669 333 671 316 672 314 670 310 668 310 668 309 668 308 668 290 670 272 672 58 666 58 683"/></Shape>
+	    <String CONTENT="présentoient dans cette partie. Elles effectuèrent ce passage à travers"
+                    HPOS="58"
+                    VPOS="666"
+                    WIDTH="516"
+                    HEIGHT="32"
+                    WC="0.9857319335679751"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bd21589"
+                    TAGREFS="LT4135"
+                    BASELINE="59 705 575 714" 
+                    HPOS="58"
+                    VPOS="688"
+                    WIDTH="517"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="59 705 58 714 535 725 536 725 574 722 575 714 575 696 533 695 532 695 532 695 524 699 483 695 482 695 464 698 443 698 438 694 437 694 436 694 436 694 435 694 422 698 391 698 382 692 381 692 380 692 380 692 376 692 342 696 335 692 334 692 334 692 333 692 325 692 262 695 249 692 248 692 248 692 223 694 207 690 205 690 204 690 204 690 196 690 159 693 146 689 143 688 142 688 142 688 132 689 114 691 95 688 87 688 86 688 86 688 84 688 75 692 59 688 59 705"/></Shape>
+	    <String CONTENT="un canal très-embarrassé, rempli de rochers submergés et d’îlets"
+                    HPOS="58"
+                    VPOS="688"
+                    WIDTH="517"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aaef0105"
+                    TAGREFS="LT4135"
+                    BASELINE="59 727 570 736" 
+                    HPOS="59"
+                    VPOS="710"
+                    WIDTH="511"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="59 727 59 738 83 736 94 739 96 740 96 740 173 741 174 741 180 740 194 738 224 740 244 742 245 742 253 741 266 738 276 741 282 743 283 743 284 743 308 742 339 740 344 742 346 743 346 743 347 743 358 742 377 740 383 742 390 745 391 745 392 745 392 745 400 743 406 741 428 743 463 746 464 746 486 744 493 743 495 744 501 747 502 747 502 747 570 744 570 736 569 722 538 722 536 720 532 718 531 718 530 718 530 718 529 718 524 720 522 721 440 720 430 718 416 716 415 716 399 717 388 718 386 717 384 715 383 715 382 715 382 715 370 716 362 718 356 716 349 714 348 714 348 714 338 716 328 718 299 715 277 713 276 713 270 714 260 716 236 714 225 712 224 712 211 713 177 715 166 712 162 711 162 711 161 711 160 711 158 712 151 714 114 710 108 710 107 710 106 710 106 710 95 714 59 710 59 727"/></Shape>
+	    <String CONTENT="de roche, qui les amena à la pointe Nord de l’île au rivage S. O."
+                    HPOS="59"
+                    VPOS="710"
+                    WIDTH="511"
+                    HEIGHT="37"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ea43fbc"
+                    TAGREFS="LT4135"
+                    BASELINE="58 751 570 758" 
+                    HPOS="57"
+                    VPOS="734"
+                    WIDTH="513"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="58 751 57 762 568 772 570 758 570 745 560 740 559 740 558 740 530 744 523 745 516 744 492 740 491 740 490 740 480 743 476 744 458 744 457 743 452 739 452 739 451 739 450 739 430 742 424 743 412 742 389 740 388 740 388 740 387 740 385 742 383 743 364 741 337 738 336 738 324 740 315 742 308 740 299 738 298 738 298 738 297 738 296 738 294 740 292 741 287 740 276 736 275 736 274 736 225 738 208 739 202 738 188 735 187 735 164 738 148 739 134 737 119 734 118 734 118 734 117 734 114 736 110 739 106 736 102 734 101 734 100 734 58 735 58 751"/></Shape>
+	    <String CONTENT="de laquelle nous étions à l’ancre: cette pointe étoit au N. 53° O."
+                    HPOS="57"
+                    VPOS="734"
+                    WIDTH="513"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dacf65e"
+                    TAGREFS="LT4135"
+                    BASELINE="58 774 328 780" 
+                    HPOS="57"
+                    VPOS="758"
+                    WIDTH="271"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="58 774 57 785 90 783 95 786 96 787 96 787 97 787 125 788 126 788 327 788 328 780 328 766 288 761 287 761 253 764 242 764 236 763 219 760 218 760 178 762 160 763 158 762 154 758 154 758 153 758 152 758 152 758 144 761 142 762 113 762 112 760 109 758 109 758 108 758 108 758 107 758 106 758 106 758 102 760 100 762 58 760 58 774"/></Shape>
+	    <String CONTENT="des vaisseaux, à environ 4 milles."
+                    HPOS="57"
+                    VPOS="758"
+                    WIDTH="271"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7f09684"
+                    TAGREFS="LT4135"
+                    BASELINE="76 798 570 805" 
+                    HPOS="75"
+                    VPOS="780"
+                    WIDTH="495"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="76 798 75 805 121 810 122 810 180 808 186 811 186 811 187 811 188 811 379 811 444 815 445 815 519 812 525 816 526 816 526 816 527 816 570 812 570 805 570 792 526 792 524 790 512 786 512 786 511 786 467 790 464 790 462 790 435 785 434 785 410 788 385 784 384 784 384 784 376 788 372 784 371 784 370 784 370 784 337 787 329 784 328 784 328 784 311 787 301 783 300 783 300 783 268 786 261 787 250 786 207 782 206 782 187 785 182 786 178 785 158 781 158 781 157 781 144 784 143 785 100 785 98 784 94 780 94 780 93 780 92 780 76 783 76 798"/></Shape>
+	    <String CONTENT="Ce rapport me donna plus d’impatience encore pour le retour"
+                    HPOS="75"
+                    VPOS="780"
+                    WIDTH="495"
+                    HEIGHT="36"
+                    WC="0.9764636138738212"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5344032"
+                    TAGREFS="LT4135"
+                    BASELINE="57 819 569 828" 
+                    HPOS="57"
+                    VPOS="802"
+                    WIDTH="512"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="57 819 57 829 166 829 180 831 203 834 204 834 226 832 236 830 238 832 242 835 243 835 244 835 244 835 259 832 264 831 268 832 276 836 277 836 278 836 278 836 290 833 351 837 352 837 352 837 365 834 422 838 423 838 448 835 458 839 459 839 460 839 487 835 488 835 488 835 494 840 495 840 496 840 496 840 497 840 508 836 568 836 569 828 569 815 517 810 516 810 516 810 509 813 508 814 506 813 496 810 496 810 495 810 456 812 441 812 434 811 421 808 420 808 420 808 411 810 406 812 398 810 386 808 385 808 358 809 327 810 324 808 323 807 322 807 322 807 321 807 310 808 293 810 288 808 286 806 285 806 284 806 284 806 282 807 277 810 258 806 255 806 254 806 248 806 204 808 158 804 152 804 152 804 146 804 98 806 93 802 92 802 92 802 57 802 57 819"/></Shape>
+	    <String CONTENT="de l’autre détachement : si je n’apprenois rien qui pût faciliter le"
+                    HPOS="57"
+                    VPOS="802"
+                    WIDTH="512"
+                    HEIGHT="38"
+                    WC="0.9764696512903486"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7f66f4e"
+                    TAGREFS="LT4135"
+                    BASELINE="56 843 568 851" 
+                    HPOS="55"
+                    VPOS="826"
+                    WIDTH="513"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="56 843 55 855 140 853 232 858 282 860 283 860 296 858 310 856 322 858 332 860 333 860 373 858 394 858 396 858 402 862 402 862 403 862 426 859 438 858 453 859 489 863 490 864 516 864 516 863 517 863 524 860 525 859 528 860 543 864 544 864 544 864 567 860 568 851 568 834 354 834 314 830 310 830 310 830 309 830 308 830 298 832 293 830 293 829 292 829 292 829 291 829 288 829 270 832 236 828 234 828 233 828 229 828 186 831 179 828 179 827 178 827 178 827 56 826 56 843"/></Shape>
+	    <String CONTENT="progrès des vaisseaux, j&#x27;espérois du moins rencontrer un mouillage"
+                    HPOS="55"
+                    VPOS="826"
+                    WIDTH="513"
+                    HEIGHT="38"
+                    WC="0.994138644898639"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02ec7072"
+                    TAGREFS="LT4135"
+                    BASELINE="56 865 568 873" 
+                    HPOS="56"
+                    VPOS="850"
+                    WIDTH="512"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="56 865 56 876 226 876 240 880 242 880 243 880 244 880 253 880 294 878 308 881 311 882 312 882 312 882 318 881 334 879 566 885 568 873 566 857 554 860 542 856 540 856 540 856 539 856 530 856 472 859 465 856 463 855 462 855 462 855 461 855 459 856 452 859 448 856 446 854 446 854 445 854 444 854 444 854 440 856 434 859 406 859 399 855 395 853 394 853 394 853 376 855 368 856 360 855 340 852 339 852 338 852 330 854 320 857 316 854 313 852 312 852 312 852 295 852 294 852 294 852 293 852 290 854 286 856 242 856 240 854 236 851 236 851 235 851 234 851 220 854 212 855 203 854 183 850 182 850 56 852 56 865"/></Shape>
+	    <String CONTENT="qui offrît plus de ressources. Nous n’avions, ni un seul point"
+                    HPOS="56"
+                    VPOS="850"
+                    WIDTH="512"
+                    HEIGHT="35"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f63d5791"
+                    TAGREFS="LT4135"
+                    BASELINE="57 887 566 896" 
+                    HPOS="56"
+                    VPOS="872"
+                    WIDTH="510"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="564 883 517 883 516 882 506 878 505 878 504 878 462 881 450 882 444 880 430 878 429 878 404 880 395 880 392 880 382 876 381 876 380 876 380 876 374 879 372 880 371 879 367 876 366 876 366 876 365 876 326 878 306 879 301 878 292 874 292 874 291 874 272 877 260 878 251 876 238 874 238 874 210 876 184 877 179 875 174 872 174 872 173 872 146 874 120 876 113 873 110 872 109 872 108 872 108 872 105 873 96 876 57 872 57 887 56 901 102 905 102 905 103 905 114 902 118 901 119 902 128 909 128 909 129 909 130 909 130 909 147 904 160 908 160 908 161 908 162 908 171 903 174 902 252 902 254 904 268 911 269 911 270 911 270 911 280 908 320 910 321 910 322 910 335 906 340 910 341 910 342 910 342 910 377 906 402 914 403 914 527 916 528 916 547 916 548 916 566 908 566 896 566 894 564 883"/></Shape>
+	    <String CONTENT="de vue agréable, ni la moindre récréation à terre, ni aucune"
+                    HPOS="56"
+                    VPOS="872"
+                    WIDTH="510"
+                    HEIGHT="44"
+                    WC="0.9727836474776268"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="597"
+                   VPOS="169"
+                   WIDTH="57"
+                   HEIGHT="41"
+                   ID="eSc_textblock_d83aaeeb"
+                   TAGREFS="BT10568">
+          <Shape><Polygon POINTS="597 169 597 208 654 210 654 171"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d5f67b33"
+                    TAGREFS="LT4135"
+                    BASELINE="601 180 652 180" 
+                    HPOS="601"
+                    VPOS="169"
+                    WIDTH="51"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="648 172 641 172 634 171 628 171 621 170 614 170 608 170 601 169 601 180 601 191 625 195 626 195 626 195 627 195 627 194 634 189 635 188 652 188 652 180 652 172 648 172"/></Shape>
+	    <String CONTENT="1792."
+                    HPOS="601"
+                    VPOS="169"
+                    WIDTH="51"
+                    HEIGHT="26"
+                    WC="0.9640565037727356"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e116dbaf"
+                    TAGREFS="LT4135"
+                    BASELINE="600 202 650 200" 
+                    HPOS="598"
+                    VPOS="188"
+                    WIDTH="52"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="600 202 601 218 623 212 630 214 644 216 645 216 646 216 646 216 646 216 647 216 650 212 650 200 648 188 598 190 600 202"/></Shape>
+	    <String CONTENT="JUILLET."
+                    HPOS="598"
+                    VPOS="188"
+                    WIDTH="52"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
