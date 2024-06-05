@@ -24,124 +24,90 @@ characters:
   - e
   - a
   - i
-  - n
-  - s
   - r
-  - o
-  - t
+  - n
   - u
+  - t
+  - o
   - l
+  - s
   - d
+  - ſ
   - c
-  - .
-  - m
   - p
+  - m
   - ','
   - ́
-  - h
-  - g
-  - v
-  - b
   - q
+  - .
+  - v
+  - g
   - f
   - ’
+  - h
+  - b
+  - ̀
+  - y
+  - x
+  - C
+  - '&'
+  - ¬
+  - M
   - A
   - E
   - '1'
-  - y
-  - ̀
-  - C
-  - I
-  - S
-  - L
-  - R
-  - M
-  - ¬
-  - "'"
   - P
-  - x
-  - D
-  - N
-  - O
+  - L
+  - S
+  - "'"
+  - R
+  - I
   - '2'
-  - z
-  - T
-  - '0'
   - j
-  - B
   - '-'
-  - k
-  - '3'
-  - '9'
-  - ̈
-  - '8'
-  - '4'
-  - U
-  - '5'
-  - H
-  - w
-  - —
-  - '7'
-  - G
   - ̂
-  - F
-  - V
-  - '6'
-  - )
+  - T
+  - D
+  - O
+  - z
   - ':'
-  - (
-  - ;
-  - '&'
-  - J
-  - W
-  - K
-  - Q
-  - '!'
-  - X
-  - Z
-  - /
-  - '?'
-  - ^
+  - '0'
   - ̃
-  - «
-  - Y
+  - '3'
+  - N
+  - '4'
+  - '7'
+  - ;
+  - F
+  - B
+  - '8'
+  - V
   - –
+  - '5'
+  - '6'
+  - G
+  - H
+  - Q
+  - '9'
+  - '?'
+  - ̈
+  - U
+  - )
+  - X
+  - (
+  - '!'
   - ̧
-  - »
-  - '*'
-  - °
-  - Σ
-  - “
+  - J
+  - w
   - œ
-  - '"'
-  - ß
-  - ”
-  - ℟
-  - Λ
-  - æ
-  - Ω
   - Æ
-  - „
-  - Δ
-  - Π
-  - Γ
-  - '['
-  - ']'
-  - '@'
-  - ·
-  - Φ
-  - ω
-  - Œ
-  - §
-  - '%'
-  - _
-  - ¹
-  - <
-  - '='
-  - '>'
-  - ℣
-  - ᑕ
-  - ؛
+  - °
+  - Y
+  - æ
+  - k
+  - Z
+  - W
+  - ß
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST-longS/blob/master/CITATION.cff
 description: Various prints (academic, archives, novels…)
@@ -169,11 +135,11 @@ title: FONDUE-MLT-PRINT-TEST-longS
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-PRINT-TEST-longS
 volume:
-- count: 151987
+- count: 32670
   metric: characters
-- count: 100
+- count: 30
   metric: files
-- count: 4014
+- count: 895
   metric: lines
-- count: 343
+- count: 104
   metric: regions
