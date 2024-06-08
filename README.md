@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/810846621.svg)](https://zenodo.org/doi/10.5281/zenodo.11526315)
+
 # FONDUE-MLT-PRINT-TEST
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10610961.svg)](https://doi.org/10.5281/zenodo.10610961)
